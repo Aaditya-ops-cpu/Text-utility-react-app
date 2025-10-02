@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Aaditya-ops-cpu.github.io/my-app",
+  "homepage": "https://Aaditya-ops-cpu.github.io/Text-utility-react-app",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
